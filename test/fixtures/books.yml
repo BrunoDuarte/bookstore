@@ -12,6 +12,7 @@ one:
   excerpt: MyText
   format: MyString
   pages: 1
+  coverpath: MyString
 
 two:
   title: MyString
@@ -25,3 +26,4 @@ two:
   excerpt: MyText
   format: MyString
   pages: 1
+  coverpath: MyString

@@ -12,6 +12,7 @@ class CreateBooks < ActiveRecord::Migration
       t.text :excerpt
       t.string :format
       t.integer :pages
+      t.string :coverpath
 
       t.timestamps null: false
     end
